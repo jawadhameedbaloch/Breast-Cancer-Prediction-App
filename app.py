@@ -21,7 +21,7 @@ def load_model(path):
 models = {
     "Without Feature Selection": {
         "Logistic Regression": load_model("logistic_regression_all.pkl"),
-        "Random Forest": load_model("random_forest_All.pkl")
+        "Random Forest": load_model("random_forest_all.pkl")
     },
     "With Feature Selection": {
         "Logistic Regression": load_model("logistic_regression_selected.pkl"),
@@ -102,3 +102,4 @@ if st.button("🔍 Predict"):
     st.subheader("📈 Prediction Probabilities")
     st.write(f"Benign: {probabilities[0]*100:.2f}%")
     st.write(f"Malignant: {probabilities[1]*100:.2f}%")
+
