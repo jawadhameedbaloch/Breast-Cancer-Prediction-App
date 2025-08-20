@@ -11,7 +11,7 @@ Built with **Python**, **Streamlit**, and **Scikit-learn**.
 - Real-time results with confidence score.
 - Lightweight and easy to deploy.
 
-**[🚀 Live Demo](https://your-live-app-link.com)**
+**[🚀 Live Demo](https://breast-cancer-prediction-ml-app.streamlit.app/)**
 ---
 
 ## 🛠️ Tech Stack
@@ -54,14 +54,6 @@ This app is trained on the **Breast Cancer Wisconsin (Diagnostic) dataset**, ava
 4. The app will display:
    - **Prediction:** Benign or Malignant
    - **Confidence Score**
-
----
-
-## 🏆 Badges
-![Python](https://img.shields.io/badge/Python-3.8+-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-Enabled-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-yellow)
-![ML](https://img.shields.io/badge/Machine%20Learning-Scikit--learn-orange)
 
 ---
 
