@@ -72,7 +72,7 @@ breast-cancer-prediction/
 👨‍💻 Author
 
 ## Jawad Hameed Baloch
-💼 Generative AI Engineer | Python Developer.
+💼 Generative AI Engineer |
 📧 jawadhameedbaloch@gmail.com
 ---
 
